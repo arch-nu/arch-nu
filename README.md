@@ -1,4 +1,4 @@
-Hi my name is YoonSoo Kim
+# Hi my name is YoonSoo Kim
 I'm interested in programming.
-This is my growth diary
-        ===============
+**This is my growth diary**
+=======================
